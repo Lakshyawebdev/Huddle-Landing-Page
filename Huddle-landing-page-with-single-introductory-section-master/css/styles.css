@@ -1,0 +1,115 @@
+body
+{
+    margin:0;
+    padding:0;
+    background-color:hsl(257, 40%, 49%);
+    background-image: url("/Huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg"); 
+    background-repeat: no-repeat; 
+    height: 100vh;
+}
+.logo
+{
+    position:absolute;
+    top: 3.125rem;
+    left:5rem;
+}
+.illustration
+{
+    position:absolute;
+    top:10.3125rem;
+    left:5rem;
+}
+.content
+{
+    position:absolute;
+    color:rgb(255, 255, 255);
+    top:12.4375rem;
+    left:52.8125rem;
+    padding-right: 13.0625rem;
+}
+h1
+{
+    font-family:Poppins;
+    font-weight: 600;
+    font-size:2.5rem;
+}
+p
+{
+    font-family:Open sans;
+}
+
+/* Made using Button Generator*/
+.button{
+    position:absolute;
+    text-decoration:none; text-align:center; 
+    padding:11px 41px; 
+    border:solid 1px #004F72; 
+    -webkit-border-radius:25px;
+    -moz-border-radius:25px; 
+    border-radius: 25px; 
+    font:17px Arial, Helvetica, sans-serif; 
+    font-weight:bold; 
+    color:#663399; 
+    background:#ffffff; 
+    -webkit-box-shadow:1px 1px 2px #000000, inset 0px 0px 4px #ffffff; 
+    -moz-box-shadow: 1px 1px 2px #000000,  inset 0px 0px 4px #ffffff;  
+    box-shadow:1px 1px 2px #000000, inset 0px 0px 4px #ffffff;  
+    top:29.375rem;
+    left:52.8125rem;
+
+     
+     }.button:hover{
+    padding:11px 41px; 
+    border:none; 
+    -webkit-border-radius:25px;
+    -moz-border-radius:25px; 
+    border-radius: 25px; 
+    font:17px Arial, Helvetica, sans-serif; 
+    font-weight:bold; 
+    color:#663399; 
+    background:#e882e8; 
+    -webkit-box-shadow:0px 0px 2px #000000, inset 0px 0px 1px #ffffff; 
+    -moz-box-shadow: 0px 0px 2px #000000,  inset 0px 0px 1px #ffffff;  
+    box-shadow:0px 0px 2px #000000, inset 0px 0px 1px #ffffff;  
+    }
+    #facebook
+    {
+        color:white;
+        position:absolute;
+        top: 41.375rem;
+        left: 74.8125rem;
+    }
+    #twitter
+    {
+        color: #ffffff;
+        position:absolute;
+        top: 41.375rem;
+        left: 80.8125rem;
+    }
+    #instagram
+    {
+        color: #ffffff;
+        position:absolute;
+        top: 41.375rem;
+        left: 86.8125rem;
+    }
+    #instagram:hover,#twitter:hover,#facebook:hover
+    {
+        color:#e882e8;
+    }
+    h4
+    {
+        margin:0;
+        padding:0;
+        color:#ffffff;
+        font-family:Poppins;
+        position:relative;
+        
+        
+    }
+    span
+    {
+        color:#e882e8;
+    }
+ 
+     
